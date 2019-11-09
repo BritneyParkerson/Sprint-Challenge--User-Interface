@@ -201,3 +201,88 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/*About CSS here"*/
+
+.container-about-page {
+    width: 805px;
+    margin: 0 auto;
+    border: 2px solid white);
+}
+
+.jumbo-about{
+    margin-bottom: 20px;
+}
+.About h1{
+    font-size: 25px;
+}
+.About{
+    font-size: 16px;
+    line-height: 25px;
+    
+}
+
+#options1-container{
+	display: flex;
+	
+    
+}
+.paragraphs1, .paragraphs2{
+	border: 20px;
+	width: 50%;
+    margin: auto;
+    padding: auto;
+    
+}
+h2{ 
+    margin: 20px;
+}
+p{
+    margin: 20px;
+}
+
+.options img{
+    width: 90%;
+    margin: 20px ;
+}
+
+button{
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px 25px 10px 25px;
+}
+
+----------------------
+
+.services p{
+	font-size: 16px;
+	text-align: left;
+	letter-spacing: 2px;
+	line-height: 30px;
+	font-family: 'big shoulders text', cursive;
+	margin-bottom: 25px;
+}
+
+.options{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: evenly;
+	align-content: space-between;
+	border-top: 2px dotted black;
+    margin: 25px 0px 25px 0px;	
+    padding-bottom: 10px;
+}
+
+.work-together h1{
+    font-size: 25px;
+}
+.work-together{
+    font-size: 16px;
+    line-height: 25px;
+    padding: 30px;
+    border-top: 2px dotted black;
+    
+}
+
