@@ -1,0 +1,20 @@
+Questions for Sprint
+
+1.	If you were to describe semantic HTML to the next cohort of students, what would you say?
+    •	Semantic HTML gives meaning to your content and allows for your websites to be readable and easily interpreted by machines. It helps you and other developers keep the code organized and well maintained so that when someone is reading the code they are able to know exactly what was meant to happen and also spot bugs more quickly.
+    •	When you just put a div, that does not tell the next developer anything besides “This is a div”.  If your HTML code is filled with a bunch of random divs, there is nothing letting the machines or other developers know what you wanted to happen when the code is ran. In order to provide meaning to the code, you want to add semantics that explain that the group of divs chunked together are meant to be in the same section, or that the first line of the page is the header to title the page you are creating. Without semantic HTML, there is only empty presentation on the page. It may look pretty, but there is no meaning to help you and others truly understand if what’s being seen is what was meant to occur.
+
+2.	Name two big differences between display: block; and display: inline;.
+    •	A block element begins a new line and will extend across the full width of horizontal space provided by it's parent element. It creates blocks of elements such as page division and paragraphs and it can contain inline elements and other block elements.
+    •	 Inline elements can begin within a line and do not start a new line. They extend only as far as the tag defines and can contain other inline elements or nothing at all.
+
+3.	What are the 4 areas of the box model?
+    •	Content, Padding, Border, Margin
+
+4.	While using flexbox, what axis does the following property work on: align-items: center?
+    •	The cross axis.
+    •	Justify-content: uses the main axis.
+
+5.	Explain why git is valuable to a team of developers.
+    •	Git is a powerful tool for developers that offers great branching capabilities. A developer must create a new branch in order to start work on their project. 
+Git also offers a special type of security, functionality, flexibility, and performance that the majority of developer teams need to be able to create quality content. Git is the most widely accepted system due to it being universally accepted for performance and usability standards.
